@@ -1,0 +1,6 @@
+[submodule "Git-Basics"]
+	path = Git-Basics
+	url = https://github.com/karmpatel-simform/Git-Basics.git
+[submodule "Git-Essentials"]
+	path = Git-Essentials
+	url = https://github.com/karmpatel-simform/Git-Essentials.git
